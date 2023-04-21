@@ -1,0 +1,21 @@
+-1-INIZIO
+    I
+-2-COMPLEANNO SILVIA :
+    *si-punto "3"
+    *no-punto "FINE "
+        I
+-3-Lista idee regalo
+    I
+-4-Prendi un regalo qualsiasi
+    I
+Rispetta i tempi e budget?
+    *si-punto "5"
+    *no---------------------------------
+    I                                  I 
+    I                                    Ho altri elementi ?
+    I                                    *si-punto "4"
+    I                                    *no-punto "FINE"
+    I
+-5-Compra regalo
+    I
+-6-Fine    
